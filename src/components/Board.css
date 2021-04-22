@@ -1,0 +1,20 @@
+.Board {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ItemWrap {
+	width: 500px;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+	align-items: center;
+}
+.Item {
+	border-right: 1px solid black;
+	width: 50%;
+	background-color: pink;
+	padding: 10px;
+}
