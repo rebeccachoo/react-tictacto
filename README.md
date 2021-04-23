@@ -4,7 +4,7 @@
 | Feature | Description |
 | -----: | :----------- |
 |  Initial state | <img src="https://github.com/rebeccachoo/react-tictactoe/blob/main/normal.png?raw=true"  width="400">|
-|  Win | <img src="https://github.com/rebeccachoo/react-tictactoe/blob/main/normal.png?raw=true"  width="400">|
+|  Win | <img src="https://github.com/rebeccachoo/react-tictactoe/blob/main/win.png?raw=true"  width="400">|
 |  Fail | <img src="https://github.com/rebeccachoo/react-tictactoe/blob/main/fail.png?raw=true"  width="400">|
 
 ## Installation
