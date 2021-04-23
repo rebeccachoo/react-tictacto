@@ -10,7 +10,7 @@ const Board = (props) => {
 		<div className="Board">
 			<div
 				className="ItemWrap"
-				style={{ backgroundColor: props.gameDone ? "red" : "white" }}
+				style={{ backgroundColor: props.gameDone ? "#D6E3F8" : "white" }}
 			>
 				{props.answer.map((list, index) => {
 					return (
