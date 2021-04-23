@@ -3,7 +3,7 @@
 
 | Feature | Description |
 | -----: | :----------- |
-|  Slow Mode | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen1.png?raw=true"  width="400">|
+|  Initial state | <img src="https://github.com/rebeccachoo/react-tictactoe/blob/main/normal.png?raw=true"  width="400">|
 |  Crazy Mode | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen2.png?raw=true"  width="400">|
 
 ## Installation
